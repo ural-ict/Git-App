@@ -1,0 +1,5 @@
+logs/*.log
+*.log
+!logs/new_file.txt
+!logs/sample.log
+/Work_Dir/
